@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew! 👋
 
-I am a sophomore computer science student and member of the [Collegium V Program](https://honors.utdallas.edu/cv) at The University of Texas at Dallas.
+I am a junior computer science student and member of the [Collegium V Program](https://honors.utdallas.edu/cv) at The University of Texas at Dallas.
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=nartmobile&hide=stars,issues,contribs?count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
