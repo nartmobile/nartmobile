@@ -7,7 +7,7 @@ I am a junior computer science student and member of the [Collegium V Program](h
 ---
 ### Things I'm working on
 
-**Projects**: [HackUTD 2021 Project](https://github.com/nartmobile/HackUTD-F-2021)
+**Projects**: [HackUTD 2021 Project / TweetyBets](https://github.com/nartmobile/HackUTD-F-2021)
 
 **Research**: [Interpreting Historical Data Using Text-Mining Extraction](https://github.com/ACM-Research/text-mining-extraction)
 
